@@ -1,30 +1,45 @@
-body {
-    background-color: rgb(0, 0, 0);
-  }
-  
-  body {
-    background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fti%2Ffotos-gratis%2Fp3%2F6671766-fantastica-lua-magica-luz-e-agua-barco-com-arvore-papel-de-parede-gratis-foto.jpg&imgrefurl=https%3A%2F%2Fpt.vecteezy.com%2Ffotos-gratis%2Fpapel-de-parede&tbnid=r5vd7e0NRGraEM&vet=12ahUKEwj77YfEu979AhXTKrkGHSwXCOYQMygAegUIARDfAQ..i&docid=R8CwwX5YWTDRaM&w=5105&h=2871&q=imagens&client=opera-gx&ved=2ahUKEwj77YfEu979AhXTKrkGHSwXCOYQMygAegUIARDfAQ");
-  }
-    h1{
-    
-    color: rgba(0, 255, 26, 0.676);
-    background-color: aliceblue;
-    border: 2px solid rgb(0, 51, 255)
-  }
-  .border 
-  /*class*/
-  .center{
-     text-align: center;
-  }
-  p {
-    color: white;
-  }
-  /*id */
-  #para {
-    color: rgb(7, 232, 41);
-    text-align: center;
-  }
-  .font-verde{
-    color: springgreen;
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    font-family: candara;
+    border-width: 4px 50px;
+   
+}
 
-  }
+body{
+    margin: 0px;
+    padding: 2rem;
+    padding-right: 20rem;
+    padding-left: 20rem;
+    background-repeat: no-repeat;
+    background-image: url(cr7.jpg);
+    background-position-x: center;
+    background-position-y: top;
+    background-size: 100%;
+}
+    
+article {
+    color:border rgb(255, 255, 255):;
+} 
+
+
+.center{
+    text-align: center;
+
+    }
+
+h1{
+    padding: 1.5rem;
+}
+
+p{
+    font-size: 1.2rem;
+    padding: 2rem;
+
+}
+
+footer{
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+}
